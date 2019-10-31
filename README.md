@@ -10,6 +10,7 @@ Darren的个人博客
 
 ### 最新
 
+* [Linux上根据对应sig文件校验文件的完整性](https://www.bestdarren.top/articles/2019/10/31/1572504155509.html)
 * [CentOS 7 C++开发环境搭建(03)](https://www.bestdarren.top/articles/2019/10/28/1572265826888.html)
 * [CentOS 7 C++开发环境搭建(02)](https://www.bestdarren.top/articles/2019/10/28/1572249961944.html)
 * [CentOS 7 C++开发环境搭建(01)](https://www.bestdarren.top/articles/2019/10/24/1571896574570.html)
